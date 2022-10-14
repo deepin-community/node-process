@@ -1,0 +1,5 @@
+version=3
+opts=\
+dversionmangle=s/\+(debian|dfsg|ds|deb)(\.\d+)?$//,\
+filenamemangle=s/.*\/v?([\d\.-]+)\.tar\.gz/node-process-$1.tar.gz/ \
+ https://github.com/shtylman/node-process/tags .*/archive/v?([\d\.]+).tar.gz

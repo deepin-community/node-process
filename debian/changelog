@@ -1,0 +1,18 @@
+node-process (0.11.10-2.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 01:29:14 +0100
+
+node-process (0.11.10-2) unstable; urgency=medium
+
+  * Install browser.js file 
+
+ -- Pirate Praveen <praveen@debian.org>  Fri, 23 Jun 2017 23:24:19 +0530
+
+node-process (0.11.10-1) unstable; urgency=low
+
+  * Initial release (Closes: #865082)
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 21 Jun 2017 15:42:50 +0530
