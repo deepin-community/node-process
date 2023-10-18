@@ -1,5 +1,0 @@
-Tests: require
-Depends: node-process
-
-Test-Command: mocha -R spec
-Depends: @, mocha
